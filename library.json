@@ -1,9 +1,22 @@
 {
   "games": [
     {
-      "name": "OpenOrbis Download Test",
+      "name": "OpenOrbis License Test",
       "size": "35 KB",
+      "filename": "openorbis-license.txt",
       "url": "https://raw.githubusercontent.com/OpenOrbis/OpenOrbis-PS4-Toolchain/master/LICENSE"
+    },
+    {
+      "name": "OpenOrbis Readme Test",
+      "size": "9 KB",
+      "filename": "openorbis-readme.md",
+      "url": "https://raw.githubusercontent.com/OpenOrbis/OpenOrbis-PS4-Toolchain/master/README.md"
+    },
+    {
+      "name": "OpenOrbis Changelog Test",
+      "size": "20 KB",
+      "filename": "openorbis-changelog.md",
+      "url": "https://raw.githubusercontent.com/OpenOrbis/OpenOrbis-PS4-Toolchain/master/CHANGELOG.md"
     }
   ]
 }
