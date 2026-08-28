@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "build": 3,
-  "pkg_url": "https://pub-d475032c5b9d41f9820b8e22a3148edb.r2.dev/YassenBato-1.0.2-build-3.pkg",
+  "version": "1.0.3",
+  "build": 4,
+  "pkg_url": "https://pub-d475032c5b9d41f9820b8e22a3148edb.r2.dev/YassenBato-1.0.3-build-4.pkg",
   "size": 6619136,
-  "sha256": "ff445783c416cc19200f816e8bb89078b55ea78303ecdd431705b62983faf613",
-  "notes": "PS4 self-update test 1.0.1 to 1.0.2"
+  "sha256": "eac16a4134e69ecab81fdac3f05429ead3368a2461aa9d2df36154abc756db95",
+  "notes": "PS4 SELF UPDATE INSTALL TEST"
 }
